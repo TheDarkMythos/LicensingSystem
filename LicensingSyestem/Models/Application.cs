@@ -4,7 +4,7 @@ using System.Text;
 
 namespace LicensingSyestem.Models
 {
-    public abstract class Application
+    public class Application
     {
         public Application()
         {
